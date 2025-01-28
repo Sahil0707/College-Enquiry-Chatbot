@@ -89,7 +89,7 @@ def generate_answer(question, retriever):
         return None
 
 def main():
-    st.header("DTC Chatbot made by divyam garvit and vanshika ")
+    st.header("DTC Chatbot ")
     st.write("Hello, welcome! Feel free to ask me anything about NCR top college.")
 
     question = st.text_input("Ask a question:")
