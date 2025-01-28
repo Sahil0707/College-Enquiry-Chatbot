@@ -11,7 +11,7 @@ import os
 
 load_dotenv()
 st.set_page_config(
-    page_title="DTC CHATBOT made by Garvit, Divyam,Vanshika ",
+    page_title="DTC CHATBOT ",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="auto",
